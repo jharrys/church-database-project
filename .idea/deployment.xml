@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="Tealium Data Import Non-Prod">
+    <serverData>
+      <paths name="Tealium Data Import Non-Prod">
+        <serverdata>
+          <mappings>
+            <mapping local="$USER_HOME$/git/tealium-data-migration" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
